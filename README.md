@@ -1,6 +1,6 @@
 ### Hi there! I'm Purvesh Dodiya 👋
 
-![](https://komarev.com/ghpvc/?username=Purvesh-Dodiya&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=purvesh-d&color=blue&style=flat)
 
 - 🔭 I’m currently working on Android and iOS app development
 - 🌱 I’m currently learning Jetpack compose and swiftUI
@@ -39,12 +39,12 @@
 
 <div>
  <div align="center"">
-<img height="137px" width="420px" src="https://github-readme-stats.vercel.app/api?username=Purvesh-Dodiya&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvesh-Dodiya&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="137px" width="420px" src="https://github-readme-stats.vercel.app/api?username=purvesh-d&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvesh-d&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <p align="center">
   <a href="https://github.com/Purvesh-Dodiya"><span>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Purvesh-Dodiya&theme=radical" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=purvesh-d&theme=radical" />
     </span></a>
 </p>
 </div>
