@@ -39,8 +39,8 @@
 
 <div>
  <div align="center"">
-<img height="137px" width="420px" src="https://github-readme-stats.vercel.app/api?username=purvesh-d&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvesh-d&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="137px" width="420px" src="https://github-readme-stats.vercel.app/api?username=purvesh-d&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvesh-d&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <p align="center">
   <a href="https://github.com/Purvesh-Dodiya"><span>
